@@ -106,3 +106,32 @@ body {
   line-height: 150%;
   color: #2b283a;
 }
+
+@media screen and (max-width: 995px) {
+  .card-container {
+    max-width: 85%;
+  }
+  .location-state {
+    font-size: 10.24px;
+  }
+
+  .google-map {
+    font-size: 10.24px;
+  }
+
+  .location-title {
+    font-size: 25px;
+  }
+
+  .date {
+    font-size: 10.24px;
+  }
+
+  .description {
+    font-size: 12.74px;
+  }
+  .card-image {
+    width: 200px;
+    height: 268.8px;
+  }
+}
