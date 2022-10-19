@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/national-park-journal/static/css/main.7c8a34bb.css",
+    "main.js": "/national-park-journal/static/js/main.9bc985bf.js",
+    "index.html": "/national-park-journal/index.html",
+    "main.7c8a34bb.css.map": "/national-park-journal/static/css/main.7c8a34bb.css.map",
+    "main.9bc985bf.js.map": "/national-park-journal/static/js/main.9bc985bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c8a34bb.css",
+    "static/js/main.9bc985bf.js"
+  ]
+}
