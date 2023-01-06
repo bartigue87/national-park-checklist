@@ -65,6 +65,50 @@ const parks = [
     imageUrl:
       "https://images.unsplash.com/photo-1604541805943-2b549ac8fecc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
   },
+  {
+    title: "Capitol Reef",
+    location: "Utah",
+    googleMapsUrl: "https://goo.gl/maps/ZsMcfcJ3YzKMM4HP7",
+    startDate: "21 Jun 2022",
+    endDate: "21 Jun, 2022",
+    description:
+      "Located in south-central Utah in the heart of red rock country, Capitol Reef National Park is a hidden treasure filled with cliffs, canyons, domes, and bridges in the Waterpocket Fold, a geologic monocline (a wrinkle on the earth) extending almost 100 miles.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1657589943803-26e34206e5e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  },
+  {
+    title: "North Cascades",
+    location: "Washington",
+    googleMapsUrl: "https://goo.gl/maps/KPAwqn1859nPvcJy7",
+    startDate: "18 Aug, 2022",
+    endDate: "18 Aug, 2022",
+    description:
+      "Less than three hours from Seattle, an alpine landscape beckons. Discover communities of life adapted to moisture in the west and recurring fire in the east. Explore jagged peaks crowned by more than 300 glaciers. Listen to cascading waters in forested valleys. Witness a landscape sensitive to the Earth's changing climate. Help steward the ecological heart of the Cascades.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1568879316114-b1671be72502?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+  },
+  {
+    title: "Olympic",
+    location: "Washington",
+    googleMapsUrl: "https://goo.gl/maps/d9xPdthRCbpAqfRa7",
+    startDate: "20 Aug, 2022",
+    endDate: "21 Aug, 2022",
+    description:
+      "With its incredible range of precipitation and elevation, diversity is the hallmark of Olympic National Park. Encompassing nearly a million acres, the park protects a vast wilderness, thousands of years of human history, and several distinctly different ecosystems, including glacier-capped mountains, old-growth temperate rain forests, and over 70 miles of wild coastline.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1614664868369-8beb346d090e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+  },
+  {
+    title: "Mt. Rainier",
+    location: "Washington",
+    googleMapsUrl: "https://goo.gl/maps/2UEENBbSWe5stAHp7",
+    startDate: "22 Aug, 2022",
+    endDate: "22 Aug, 2022",
+    description:
+      "Ascending to 14,410 feet above sea level, Mount Rainier stands as an icon in the Washington landscape. An active volcano, Mount Rainier is the most glaciated peak in the contiguous U.S.A., spawning five major rivers. Subalpine wildflower meadows ring the icy volcano while ancient forest cloaks Mount Rainier’s lower slopes.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1598416549712-51d1da68bad5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+  },
 ];
 
 export default parks;
