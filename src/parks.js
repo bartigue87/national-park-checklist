@@ -109,6 +109,17 @@ const parks = [
     imageUrl:
       "https://images.unsplash.com/photo-1598416549712-51d1da68bad5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
   },
+  {
+    title: "Black Canyon of the Gunnison",
+    location: "Colorado",
+    googleMapsUrl: "Colorado",
+    startDate: "31 Aug 2023",
+    endDate: "31 Aug, 2023",
+    description:
+      "Big enough to be overwhelming, still intimate enough to feel the pulse of time, Black Canyon of the Gunnison National Park exposes you to some of the steepest cliffs, oldest rock, and craggiest spires in North America. With two million years to work, the Gunnison River, along with the forces of weathering, has sculpted this vertical wilderness of rock, water, and sky.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1627407984843-b426020b7cbd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
 ];
 
 export default parks;
